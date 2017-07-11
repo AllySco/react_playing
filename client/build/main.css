@@ -8,6 +8,7 @@
 body {
   width: 100%;
   height: 100%;
+  background-color: lightsteelblue;
 }
 
 
@@ -18,7 +19,6 @@ body {
   height: 100%;
   display: flex;
   flex-flow: column;
-  background-color: goldenrod;
   padding: 30px;
 }
 
@@ -39,10 +39,10 @@ body {
   align-items: center;
   justify-content: space-between;
   height: 100%;
-  width: 67%;
+  width: 100%;
   display: flex;
   flex-flow: column wrap;
-  background-color: lightsteelblue;
+  background-color: firebrick;
   padding: 10px;
 }
 
@@ -54,11 +54,12 @@ body {
   width: 67%;
   display: flex;
   flex-flow: column;
-  background-color: lightsteelblue;
+  background-color: firebrick;
   padding: 10px;
 }
 
 h3{
+  color: white;
   text-align: center;
 }
 
@@ -72,7 +73,7 @@ h3{
   flex-flow: column;
   background-color: steelblue;
   padding: 20px;
-  color: firebrick;
+  color: white;
 }
 
 

@@ -17,7 +17,6 @@ class NewMoviesList extends React.Component {
       )
   }
 
-
 }
 
 
